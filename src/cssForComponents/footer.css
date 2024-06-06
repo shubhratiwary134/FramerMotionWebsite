@@ -1,0 +1,28 @@
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: rgb(92, 92, 92);
+   margin-top: 5em; 
+    /* padding: 2em; */
+    font-size: 1.5rem;
+}
+ .contact{
+    font-weight: 600;
+ }
+.Arms{
+    font-weight: 600;
+}
+.footer-title-p{
+    font-size: 2rem;
+    font-weight: 600;
+}
+.footer-title-p:hover{
+color: black;
+transition: .5s;
+}
+.footer-p:hover{
+   color: black;
+   cursor: pointer;
+    transition: .2s ease-in;
+}

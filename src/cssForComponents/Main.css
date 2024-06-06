@@ -1,0 +1,61 @@
+
+.container-main{
+    font-size: 1.3em;
+    padding-top: 2em;
+    padding-bottom: 12em; 
+    margin: 0;
+    background-image: url('main3.gif');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 4em;
+    display: flex;
+    align-items: center;
+   margin-bottom: 4em;
+    
+   /* justify-content:center; */
+
+}
+/* .gif-container{
+    width: 50%;
+    height: 500px;
+   
+} */
+.Main-heading-container{
+    margin-top: 2em;
+    
+    /* margin-left: 2em; */
+    display: flex;
+    z-index: 2;
+}
+.title-main{
+    font-family: "Fugaz One", sans-serif;
+    /* font-family: "Protest Riot", sans-serif; */
+    font-size: 2.3rem;
+    /* font-family: "Noto Serif Toto", serif; */
+    color: #222831;
+    font-weight: 600;
+}
+.image-container{
+    position: absolute;
+    margin-top: 2em;
+   /* margin-right: 2em; */
+    /* top: 25%;
+    left: 40%; */
+    width: 40%;
+}
+.image-container-2{
+  
+   width: 50%;
+}
+.main-image{
+    max-width: 100%;
+    display: flex;
+    z-index: -1;
+}
+.heading-colored{
+    color:#F96D00;
+}
+
+
+

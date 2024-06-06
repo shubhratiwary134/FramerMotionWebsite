@@ -1,0 +1,33 @@
+.Wealth-container{
+   
+    display: flex;
+    align-items: center;
+    color: black;
+    margin: 0;
+    justify-content: space-between;
+    margin-bottom: 3em;
+   
+}
+.wealth-image-container{
+   
+    width: 50%;
+}
+.wealth-img{
+    max-width: 100%;
+}
+/* .wealth-heading-container{
+   margin-right: 4em;
+} */
+.wealth-heading-text-container{
+    display: flex;
+    justify-content: flex-start;
+}
+.wealth-heading{
+    font-size: 4rem;
+    font-family: "Playfair Display", serif;
+    letter-spacing: 3px;
+    margin: 0;
+}
+#number{
+    color:#F96D00;
+}
