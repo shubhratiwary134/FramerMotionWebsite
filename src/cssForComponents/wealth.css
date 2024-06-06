@@ -31,3 +31,19 @@
 #number{
     color:#F96D00;
 }
+@media (max-width:1024px) {
+    .wealth-heading{
+        font-size: 3rem;
+    }
+}
+@media (max-width:800px) {
+    .wealth-heading{
+        font-size: 2rem;
+    }
+}
+@media (max-width:600px) {
+    .wealth-image-container{
+        display: none;
+    }
+    
+}

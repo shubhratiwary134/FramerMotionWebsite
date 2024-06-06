@@ -4,3 +4,9 @@ body{
   
   padding: 1em 2.5em;
 }
+@media  (max-width:600px) {
+  body{
+    padding: 0;
+    margin: 0 1em;
+  }
+}

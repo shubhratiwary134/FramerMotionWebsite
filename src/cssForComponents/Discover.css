@@ -46,3 +46,26 @@
     flex-direction: column;
     align-items: center;
 }
+@media (max-width:1024px) {
+    .discover-bold-text{
+        display: none;
+    }
+    .Discover-container{
+        padding: 0;
+        margin-bottom: 2em;
+    }
+    .discover-p{
+        font-size: 1.2rem;
+        letter-spacing: 1px;
+    }
+    
+}
+@media (max-width:600px) {
+    .discover-p{
+        font-size: .8rem;
+    }
+    .discover-heading{
+        font-size: 2rem;
+    }
+    
+}

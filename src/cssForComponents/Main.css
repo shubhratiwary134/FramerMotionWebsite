@@ -56,6 +56,37 @@
 .heading-colored{
     color:#F96D00;
 }
-
-
-
+@media (max-width:1024px) {
+    .container-main{
+        padding-bottom: 10em;
+        padding-left: 2em;
+        
+    }
+    .Main-heading-container{
+        margin: 0;
+    }
+    .title-main{
+        font-size: 1.3rem;
+    }
+}
+@media (max-width:800px) {
+    .container-main{
+        padding-bottom: 7em;
+    }
+    
+}
+@media (max-width:700px) {
+    .container-main{
+        padding-bottom: 5em;
+    }
+    
+}
+@media (min-width:300px) and (max-width:700px){
+    .container-main{
+        padding-bottom: 5em;
+        margin-bottom: .5em;
+    }
+    .title-main{
+        font-size: .8rem;
+    }
+}
