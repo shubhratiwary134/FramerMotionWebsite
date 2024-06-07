@@ -64,6 +64,9 @@
     .discover-p{
         font-size: .8rem;
     }
+    .Discover-container{
+        padding: 1em;
+    }
     .discover-heading{
         font-size: 2rem;
     }
