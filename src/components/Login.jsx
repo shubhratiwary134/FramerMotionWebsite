@@ -1,4 +1,5 @@
 import '../cssForComponents/login.css'
+import loginImage from '../../login.gif'
 import {motion} from 'framer-motion'
 export default function Login(){
     return(
@@ -20,7 +21,7 @@ export default function Login(){
             className="Login-container" id='login'>         
                 <div className='form-container'>
                 <div className='gif-container'>
-                    <img className='login-gif' src='login.gif'></img>
+                    <img className='login-gif' src={loginImage}></img>
                 </div>
                 <div>
                 <div className='login-heading'>
