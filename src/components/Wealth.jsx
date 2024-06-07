@@ -1,4 +1,5 @@
 import '../cssForComponents/wealth.css'
+import wealthImage from '../../finance-planner2.gif'
 import {motion} from 'framer-motion'
 export default function Wealth({wealthNumber}){
     return(
@@ -41,7 +42,7 @@ export default function Wealth({wealthNumber}){
                     duration:1
                 }}
                 className='wealth-image-container'>
-                    <img src='../../public/images/finance-planner2.gif' className='wealth-img'/>
+                    <img src={wealthImage} className='wealth-img'/>
                 </motion.div>
                 
                 
