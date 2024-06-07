@@ -83,10 +83,10 @@
 }
 @media (min-width:300px) and (max-width:700px){
     .container-main{
-        padding-bottom: 5em;
+        padding-bottom: 7em;
         margin-bottom: .5em;
     }
     .title-main{
-        font-size: .8rem;
+        font-size: 1.5rem;
     }
 }

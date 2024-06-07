@@ -120,4 +120,7 @@
         .login-gif{
           display: none;
         }
+        hr{
+          display: none;
+        }
       }
