@@ -45,5 +45,8 @@
     .wealth-image-container{
         display: none;
     }
+    .wealth-heading{
+        margin-left: 20px;
+    }
     
 }
