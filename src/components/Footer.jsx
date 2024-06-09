@@ -9,7 +9,7 @@ export default function Footer(){
                 <p className="footer-p contact">Contact:</p>
                 <p className="footer-p">+91 92847 26482</p>
                 <p className="footer-p">+91 92847 26482</p>
-                <p  className="footer-p">support@zindagiholdings.com</p>
+                <p  className="footer-p">support@Zorolloholdings.com</p>
                 </div>
                 <div className="our-three-arms-container">
                 <p className="footer-p Arms">Our Three Arms:</p>
@@ -34,7 +34,7 @@ export default function Footer(){
                     offset={-200}
                     duration={1000}
                                   >
-                                Private Investments
+                                Initial Investments
                                   </Link>
                     </p>
                 <p  className="footer-p" >
@@ -46,12 +46,12 @@ export default function Footer(){
                     offset={-200}
                     duration={1000}
                                   >
-                               Estates 
+                               Real Estates 
                                   </Link>
                     </p>
                 </div>  
                <div className="footer-logo-container">
-                <p className='footer-title-p'>Zindagi Holdings & Co</p>
+                <p className='footer-title-p'>Zorollo Holdings & Co</p>
                 </div>
             </div>
         </>

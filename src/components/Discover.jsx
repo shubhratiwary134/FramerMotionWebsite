@@ -25,7 +25,7 @@ export default function Discover(){
                 >
                 <p className='discover-heading' 
                 ><span className='orange-text'>Discover</span><br></br></p>
-                    <p className='discover-bold-text'>Zindagi Holdings & CO</p>
+                    <p className='discover-bold-text'>Zorollo Holdings & CO</p>
                 </motion.div>
               
                 <div

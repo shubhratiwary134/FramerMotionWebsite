@@ -30,8 +30,8 @@ export default function Main(){
                 >
                      <p
                 className='title-main'
-               >YOUR  <span className='heading-colored'>TRUST</span> ,<br></br>
-                OUR CORNER <span className='heading-colored'>STONE</span>
+               >YOUR  <span className='heading-colored'>CONFIDENCE</span> ,<br></br>
+                OUR  <span className='heading-colored'>FOUNDATION</span>
                </p>
                  </motion.div>
               
