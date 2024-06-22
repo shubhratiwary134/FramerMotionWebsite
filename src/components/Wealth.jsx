@@ -11,7 +11,7 @@ export default function Wealth({wealthNumber}){
            }} 
            whileInView={{
             opacity:1,
-            translateY:[100,0]
+            translateY:[50,0]
            }}
            viewport={{
             amount:'some'
